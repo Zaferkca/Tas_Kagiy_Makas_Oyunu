@@ -1,0 +1,10 @@
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\bin\Debug\Tas_Kagıt_Makas.exe.config
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\bin\Debug\Tas_Kagıt_Makas.exe
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\bin\Debug\Tas_Kagıt_Makas.pdb
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.csproj.AssemblyReference.cache
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.Form1.resources
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.Properties.Resources.resources
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.csproj.GenerateResource.cache
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.exe
+C:\Users\PRINCE\Downloads\TasKagitMakasOyunu-master\TasKagitMakasOyunu-master\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.pdb
